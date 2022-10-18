@@ -19,3 +19,7 @@ file system.
 ## How To Contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
+
+2022 Git.Training.
